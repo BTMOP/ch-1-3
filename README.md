@@ -1,4 +1,4 @@
-# Multi-UAV Search and Pick
+# Multi-UAV Search and Rescue
 Project files for outdoor demonstration of a 3-UAV system that search, pick and transport objects autonomously. The project is motiviated by the challenge 3 in MBZIRC 2017.
 
 Branch `final_v4` is the one used.
