@@ -4,6 +4,6 @@ Project files for outdoor demonstration of a 3-UAV system that search, pick and 
 Branch `final_v4` is the one used.
 
 # Videos
-A link to a complete outdoor mission performed at KAUST is available [here](https://youtu.be/DwJcSB_iDKo)
+A video of the complete outdoor mission performed at KAUST is available [here](https://youtu.be/DwJcSB_iDKo)
 
-A link to a sped up (x2) V-rep simulation is available [here](https://youtu.be/fL34patISds)
+A sped up (x2) video of a V-rep simulation for the mission is available [here](https://youtu.be/fL34patISds)
